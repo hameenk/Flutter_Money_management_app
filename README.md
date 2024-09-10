@@ -19,7 +19,8 @@ A new Flutter project.
 - **Clean UI**: Simple and intuitive user interface for easy navigation.
 
 ## Screenshots
-![Money Manager](path_to_image "Screenshot")
+
+![mm](https://github.com/user-attachments/assets/17ff6cff-7e22-4448-a45b-0924cdac4bf6)
 
 ## Installation
 1. Clone the repository:
